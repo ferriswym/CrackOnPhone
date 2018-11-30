@@ -1,0 +1,1 @@
+toco --graph_def_file=ssd_mobilenet_v1_coco_2018_01_28/frozen_inference_graph.pb \  --input_format=TENSORFLOW_GRAPHDEF \  --output_format=TFLITE \  --output_file=ssd_mobilenet.tflite \  --inference_type=FLOAT \  --input_type=FLOAT \  --input_arrays=Preprocessor/sub \  --output_arrays=concat,concat_1 \  --input_shapes=1,300,300,3
