@@ -1,6 +1,6 @@
 # TF Lite Android Image Segmentation App Example
 
-A simple Android example that demonstrates image segmentation using the camera. Modified from [Tensorflow Lite Android Image Classification Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/android/app)
+A simple Android example that demonstrates image segmentation using the camera. Modified from [Tensorflow Lite Android Image Classification Demo](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/lite/examples/android/app).
 
 ## Building in Android Studio with TensorFlow Lite AAR from JCenter.
 The build.gradle is configured to use TensorFlow Lite's nightly build.
